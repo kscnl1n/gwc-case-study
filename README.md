@@ -5,6 +5,8 @@ This repository contains two notebook-based analyses focused on gender represent
 - `YOLO_ads.ipynb`: an image pipeline that scrapes computer-related ad images, runs detection/classification, and produces gender-oriented summaries.
 - `BLS_analysis.ipynb`: a labor statistics workflow analyzing gender participation trends in tech occupations over time.
 
+It was created as a final project, but I wanted to share it to encourage others in my class to experiment with machine learning in data analytics.
+
 ## Project Goals
 
 - Build a repeatable computer-vision workflow for ad imagery that analyzes the impact of representation in advertising -- specifically in CS courses.
